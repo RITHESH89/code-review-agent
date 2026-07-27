@@ -7,18 +7,7 @@ An AI agent that reviews code for bugs, security issues, performance problems, a
 
 ## Setup
 
-```bash
-pip install -r requirements.txt
-cp .env.example .env
-```
 
-## Run
-
-```bash
-# Review a file
-python agent.py --file path/to/your/code.py
-
-# Review inline code
 python agent.py --code "def divide(a, b): return a / b"
 
 # Review non-Python code
