@@ -58,9 +58,6 @@ def main():
     review = review_code(code, args.language)
 
 print("=" * 60)
-    print("📋 CODE REVIEW")
-    print("=" * 60)
-    print(review)
-
+ 
 
     
