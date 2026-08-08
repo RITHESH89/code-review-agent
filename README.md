@@ -18,8 +18,7 @@ cp .env.example .env
 # Review a file
 python agent.py --file path/to/your/code.py
 
-# Review inline code
-python agent.py --code "def divide(a, b): return a / b"
+
 
 
 
