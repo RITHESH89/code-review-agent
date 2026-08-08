@@ -7,9 +7,6 @@ An AI agent that reviews code for bugs, security issues, performance problems, a
 
 ## Setup
 
-```bash
-
-
 ## Run
 
 ```bash
