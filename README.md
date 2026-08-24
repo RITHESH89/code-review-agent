@@ -1,6 +1,5 @@
 # Code Review Agent
-An AI agent that reviews code for bugs, security issues, performance problems, 
-
+An AI agent that reviews code for bugs, security issues, 
 
 
 ## Setup
